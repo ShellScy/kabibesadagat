@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shell
+- 👋 Hi, I’m @shell 🇹🇭
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything that interest me
